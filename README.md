@@ -74,4 +74,16 @@
 
 Повторно просматриваются логи в графическом виде.
 
+![git graph2](screenshots/17.png)
 
+Составляется отчет в файле README.md. Данный файл добавляется в новую ветку и пушится в репозиторий.
+
+![git read1](screenshots/20.png)
+
+![git read2](screenshots/21.png)
+
+Финальны результат.
+
+![git final log](screenshots/19.png)
+
+Все скриншоты данной работы лежат в папке screenshots.
