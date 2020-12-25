@@ -4,15 +4,15 @@
 ###Ход работы:
 Была сделана копия репозитория https://github.com/Kurtyanik/LR6/
 
-![Rep](screenshot/1.png)
+![Rep](screenshots/1.png)
 
 При помощи команды cd Desktop\lab6 выполняется переход в созданную папку на компьютере. Затем при помощи команды git init инициализируется git в данной папке. После записывается команда git remote add origin для связывания папки с удаленным репзоиторием на GitHub и git clone для клонирования репозитория в данную папку. 
 
-![git init](screenshot/2.png)
+![git init](screenshots/2.png)
 
 Выполняется вход git с помощью команд git config --global user.name, git config --global user.email
 
-![git conf](screenshot/0.png)
+![git conf](screenshots/0.png)
 
 Через сайт GitHub создается текстовый файл text.txt. Выполняется переход в папку, клонированного репозитория cd LR6, затем при помощи команды git pull origin master загружаются изменения из удаленного в локальный репозитории.
 
@@ -82,7 +82,7 @@
 
 ![git read2](screenshots/21.png)
 
-Финальны результат.
+Финальный результат.
 
 ![git final log](screenshots/19.png)
 
